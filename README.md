@@ -1752,3 +1752,8 @@ Finally, there are services that may offer all three: anonymity, privacy, and se
 | 🤖    | Android Only. |
 
 [Back to top 🔝](#contents)
+
+
+### Web Privacy & Compliance
+
+- [GDPRChecker](https://www.gdprchecker.online/) - Free GDPR compliance scanner for websites. Checks cookies, trackers, consent banners, privacy policy signals, and provides actionable compliance findings.
